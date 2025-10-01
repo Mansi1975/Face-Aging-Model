@@ -1,4 +1,4 @@
-# Fast-AgingGAN
+# Face Aging GAN
 This repository holds code for a face aging deep learning model. It is based on the CycleGAN, where we translate young faces to old and vice versa.
 
 # Samples
